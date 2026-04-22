@@ -86,7 +86,7 @@ python rag_hallucination_detection.py
 
 ### Run the notebook
 
-jupyter notebook
+colab notebook
 
 
 ## Key Contributions
